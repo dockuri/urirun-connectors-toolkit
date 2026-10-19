@@ -1,5 +1,5 @@
 {
-  "repository": "if-uri/urirun-connectors-toolkit",
+  "repository": "dockuri/urirun-connectors-toolkit",
   "requiredChecks": [
     {
       "name": "import-smoke",
